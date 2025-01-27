@@ -22,7 +22,7 @@ wget \
 
 | Nom | URL | Relecture |
 |-|-|-|
-| Capacités publiques |  https://capacitespubliques.la27eregion.fr | https://27eregion-capacitespubliques.netlify.app | 
+| [Capacités publiques](https://capacitespubliques.la27eregion.fr) | https://27eregion-capacitespubliques.netlify.app | 
 
 ### Capacités publiques
 https://capacitespubliques.la27eregion.fr
