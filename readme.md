@@ -1,6 +1,7 @@
 # Sites statiques de la 27e région
 
-La 27e Région produit des sites Web, qui doivent être archivés en statique quand ils ne sont plus en usage. Ce référentiel fournit la méthodologie et 
+La 27e Région produit des sites Web, qui doivent être archivés en statique quand ils ne sont plus en usage. Ce référentiel fournit la méthodologie et l'état des lieux des sites.
+Les archives sont envoyées sur Netlify pour relecture.
 
 ## Méthodologie
 
