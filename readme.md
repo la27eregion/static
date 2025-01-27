@@ -24,15 +24,15 @@ Pour bénéficier des scripts de nettoyage de Netlify, il faut envoyer les fichi
 
 | Nom | URL | État |
 |-|-|-|
-| [Admeen](https://readymag.website/u26414578/1158603/) |  | 
+| [Admeen](https://readymag.website/u26414578/1158603/) |  | ⚠️ |
 | [Aménagement participatif](https://amenagementparticipatif.fr) | https://27eregion-amenagementparticipatif.netlify.app | 
 | [Blog Labonautes](https://leslabonautes.la27eregion.fr) | https://27eregion-leslabonautes.netlify.app | 
 | [Blog résidence à Cluny](https://residence27sgmap.wordpress.com) | https://27eregion-residence27sgmap.netlify.app | 
 | [Capacités publiques](https://capacitespubliques.la27eregion.fr) | https://27eregion-capacitespubliques.netlify.app | 
 | [Déformation(s)](https://deformations.la27eregion.fr) | https://27eregion-deformations.netlify.app | 
-| [Enacting the commons](https://enactingthecommons.la27eregion.fr) |  | 
+| [Enacting the commons](https://enactingthecommons.la27eregion.fr) | https://27eregion-enactingthecommons.netlify.app | 
 | [Gare de Montfort](https://garebzh.la27eregion.fr) | https://27eregion-garebzh.netlify.app | 
-| [Hopital](https://hopitalmetropole.la27eregion.fr) |  | 
+| [Hopital](https://hopitalmetropole.la27eregion.fr) | https://27eregion-hopitalmetropole.netlify.app | 
 | [Labonautes](https://labonautes.fr) | https://27eregion-labonautes.netlify.app | ⚠️ |
 | [La Transfo](https://latransfo.la27eregion.fr) |  | 
 | [La Transfo site final](https://transfocodesource.la27eregion.fr/index.html) | https://27eregion-transfocodesource.netlify.app | 
