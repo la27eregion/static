@@ -127,7 +127,8 @@ wget --recursive --no-clobber --page-requisites --html-extension --convert-links
 
 ### La Transfo : site final
 https://transfocodesource.la27eregion.fr/index.html 
-Ø	Attention, le site https://transfocodesource.la27eregion.fr renvoie une erreur 
+
+⚠️	Attention, le site https://transfocodesource.la27eregion.fr renvoie une erreur 
 
 ```bash
 wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains transfocodesource.la27eregion.fr --no-parent transfocodesource.la27eregion.fr/index.html
