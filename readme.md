@@ -33,13 +33,13 @@ Pour bénéficier des scripts de nettoyage de Netlify, il faut envoyer les fichi
 | [Enacting the commons](https://enactingthecommons.la27eregion.fr) | https://27eregion-enactingthecommons.netlify.app | 
 | [Gare de Montfort](https://garebzh.la27eregion.fr) | https://27eregion-garebzh.netlify.app | 
 | [Hopital](https://hopitalmetropole.la27eregion.fr) | https://27eregion-hopitalmetropole.netlify.app | 
-| [Labonautes](https://labonautes.fr) | https://27eregion-labonautes.netlify.app | ⚠️ |
-| [La Transfo](https://latransfo.la27eregion.fr) | https://latransfo.la27eregion.fr | 
+| [Labonautes](https://labonautes.fr) | https://27eregion-labonautes.netlify.app | ⚠️ rien ne marche |
+| [La Transfo](https://latransfo.la27eregion.fr) | https://27eregion-latransfo.netlify.app | ⚠️ redirection js |
 | [La Transfo site final](https://transfocodesource.la27eregion.fr/index.html) | https://27eregion-transfocodesource.netlify.app | 
 | [Lieux Communs](https://lieuxcommuns.la27eregion.fr) | https://27eregion-lieuxcommuns.netlify.app | 
 | [Nouveaux accords](https://nouveauxaccords.la27eregion.fr) | https://27eregion-nouveauxaccords.netlify.app | 
 | [Repenser l’accueil en mairie](https://mairie19.la27eregion.fr) | https://27eregion-mairie19.netlify.app | 
-| [Territoire en résidences](https://territoiresenresidences.wordpress.com) |  | 
+| [Territoire en résidences](https://territoiresenresidences.wordpress.com) | https://27eregion-territoiresenresidences.netlify.app | 
 
 ### Capacités publiques
 
