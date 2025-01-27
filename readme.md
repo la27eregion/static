@@ -18,14 +18,16 @@ wget \
  nouveauxaccords.la27eregion.fr
 ```
 
-## Archivés
+Pour bénéficier des scripts de nettoyage de Netlify, il faut envoyer les fichiers en déploiement manuel, pas en sync de référentiel Github.
+
+## Sites archivés
 
 | Nom | URL |
 |-|-|
 | [Capacités publiques](https://capacitespubliques.la27eregion.fr) | https://27eregion-capacitespubliques.netlify.app | 
 | [Nouveaux accords](https://nouveauxaccords.la27eregion.fr) | https://27eregion-nouveauxaccords.netlify.app | 
 | [Aménagement participatif](https://amenagementparticipatif.fr) | https://27eregion-amenagementparticipatif.netlify.app | 
-| [Labonautes](https://labonautes.fr) |  | 
+| [Labonautes](https://labonautes.fr) | https://27eregion-labonautes.netlify.app | 
 | [Blog Labonautes](https://leslabonautes.la27eregion.fr) | https://27eregion-leslabonautes.netlify.app | 
 | [Lieux Communs](https://lieuxcommuns.la27eregion.fr) |  | 
 | [Déformation(s)](https://deformations.la27eregion.fr) |  | 
@@ -140,7 +142,7 @@ https://readymag.website/u26414578/1158603/
 wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains readymag.website/u26414578/1158603/ readymag.website/u26414578/1158603/
 ```
 
-## Encore en cours
+## Site encore en usage
 
 ### Rebonds
 
