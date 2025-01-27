@@ -17,20 +17,6 @@ wget \
  nouveauxaccords.la27eregion.fr
 ```
 
-## Encore en cours
-
-## Rebonds
-
-https://rebonds.la27eregion.fr
-
-## Tronc Commun
-
-https://tronc-commun.la27eregion.fr
-
-
-Nouvelles Mesures 
-https://marvelous-swordfish-ba4.notion.site/Bienvenue-sur-le-carnet-de-bord-de-Nouvelles-Mesures-97d592b5a703492dba075ecc335837a6?pvs=74 
-Ø	Carnet de bord sur notion 
 
 ## Archivés
 
@@ -41,6 +27,8 @@ https://capacitespubliques.la27eregion.fr
 wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains capacitespubliques.la27eregion.fr --no-parent capacitespubliques.la27eregion.fr
 ```
 
+https://27eregion-capacitespubliques.netlify.app
+
 ### Nouveaux accords
 https://nouveauxaccords.la27eregion.fr
 
@@ -48,12 +36,18 @@ https://nouveauxaccords.la27eregion.fr
 wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains nouveauxaccords.la27eregion.fr --no-parent nouveauxaccords.la27eregion.fr
 ```
 
+https://27eregion-nouveauxaccords.netlify.app
+
 ### Aménagement participatif
 https://amenagementparticipatif.fr
 
 ```bash
 wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains amenagementparticipatif.fr --no-parent amenagementparticipatif.fr
 ```
+
+https://27eregion-amenagementparticipatif.netlify.app
+
+## À archiver
 
 ### Labonautes 
 https://labonautes.fr
@@ -95,3 +89,17 @@ https://territoiresenresidences.wordpress.com
 ### Blog résidence à Cluny
 https://residence27sgmap.wordpress.com
 
+
+## Encore en cours
+
+### Rebonds
+
+https://rebonds.la27eregion.fr
+
+### Tronc Commun
+
+https://tronc-commun.la27eregion.fr
+
+### Nouvelles Mesures 
+https://marvelous-swordfish-ba4.notion.site/Bienvenue-sur-le-carnet-de-bord-de-Nouvelles-Mesures-97d592b5a703492dba075ecc335837a6?pvs=74 
+Ø	Carnet de bord sur notion 
