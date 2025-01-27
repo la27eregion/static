@@ -20,11 +20,15 @@ wget \
 
 ## Archivés
 
+| Nom | URL | Relecture | Code |
+|-|-|-|-|
+| Capacités publiques |  https://capacitespubliques.la27eregion.fr | https://27eregion-capacitespubliques.netlify.app | `wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains capacitespubliques.la27eregion.fr --no-parent capacitespubliques.la27eregion.fr` |
+
 ### Capacités publiques
 https://capacitespubliques.la27eregion.fr
 
 ```bash
-wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains capacitespubliques.la27eregion.fr --no-parent capacitespubliques.la27eregion.fr
+`wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains capacitespubliques.la27eregion.fr --no-parent capacitespubliques.la27eregion.fr`
 ```
 
 https://27eregion-capacitespubliques.netlify.app
@@ -104,6 +108,8 @@ https://mairie19.la27eregion.fr
 ```bash
 wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains mairie19.la27eregion.fr --no-parent mairie19.la27eregion.fr
 ```
+
+https://27eregion-mairie19.netlify.app
 
 ### Gare de Montfort
 https://garebzh.la27eregion.fr
