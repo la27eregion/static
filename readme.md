@@ -18,7 +18,6 @@ wget \
  nouveauxaccords.la27eregion.fr
 ```
 
-
 ## Archivés
 
 ### Capacités publiques
@@ -47,8 +46,6 @@ wget --recursive --no-clobber --page-requisites --html-extension --convert-links
 ```
 
 https://27eregion-amenagementparticipatif.netlify.app
-
-## À archiver
 
 ### Labonautes 
 https://labonautes.fr
@@ -114,6 +111,8 @@ https://garebzh.la27eregion.fr
 ```bash
 wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains garebzh.la27eregion.fr --no-parent garebzh.la27eregion.fr
 ```
+
+https://27eregion-garebzh.netlify.app
 
 ### Territoire en résidences 
 https://territoiresenresidences.wordpress.com
