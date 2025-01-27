@@ -24,22 +24,22 @@ Pour bénéficier des scripts de nettoyage de Netlify, il faut envoyer les fichi
 
 | Nom | URL | État |
 |-|-|-|
-| [Capacités publiques](https://capacitespubliques.la27eregion.fr) | https://27eregion-capacitespubliques.netlify.app | 
-| [Nouveaux accords](https://nouveauxaccords.la27eregion.fr) | https://27eregion-nouveauxaccords.netlify.app | 
-| [Aménagement participatif](https://amenagementparticipatif.fr) | https://27eregion-amenagementparticipatif.netlify.app | 
-| [Labonautes](https://labonautes.fr) | https://27eregion-labonautes.netlify.app | ⚠️ |
-| [Blog Labonautes](https://leslabonautes.la27eregion.fr) | https://27eregion-leslabonautes.netlify.app | 
-| [Lieux Communs](https://lieuxcommuns.la27eregion.fr) | https://27eregion-lieuxcommuns.netlify.app | 
-| [Déformation(s)](https://deformations.la27eregion.fr) |  | 
-| [Enacting the commons](https://enactingthecommons.la27eregion.fr) |  | 
-| [La Transfo](https://latransfo.la27eregion.fr) |  | 
-| [Hopital](https://hopitalmetropole.la27eregion.fr) |  | 
-| [Repenser l’accueil en mairie](https://mairie19.la27eregion.fr) | https://27eregion-mairie19.netlify.app | 
-| [Gare de Montfort](https://garebzh.la27eregion.fr) | https://27eregion-garebzh.netlify.app | 
-| [Territoire en résidences](https://territoiresenresidences.wordpress.com) |  | 
-| [Blog résidence à Cluny](https://residence27sgmap.wordpress.com) | https://27eregion-residence27sgmap.netlify.app | 
-| [La Transfo site final](https://transfocodesource.la27eregion.fr/index.html) | https://27eregion-transfocodesource.netlify.app | 
 | [Admeen](https://readymag.website/u26414578/1158603/) |  | 
+| [Aménagement participatif](https://amenagementparticipatif.fr) | https://27eregion-amenagementparticipatif.netlify.app | 
+| [Blog Labonautes](https://leslabonautes.la27eregion.fr) | https://27eregion-leslabonautes.netlify.app | 
+| [Blog résidence à Cluny](https://residence27sgmap.wordpress.com) | https://27eregion-residence27sgmap.netlify.app | 
+| [Capacités publiques](https://capacitespubliques.la27eregion.fr) | https://27eregion-capacitespubliques.netlify.app | 
+| [Déformation(s)](https://deformations.la27eregion.fr) | https://27eregion-deformations.netlify.app | 
+| [Enacting the commons](https://enactingthecommons.la27eregion.fr) |  | 
+| [Gare de Montfort](https://garebzh.la27eregion.fr) | https://27eregion-garebzh.netlify.app | 
+| [Hopital](https://hopitalmetropole.la27eregion.fr) |  | 
+| [Labonautes](https://labonautes.fr) | https://27eregion-labonautes.netlify.app | ⚠️ |
+| [La Transfo](https://latransfo.la27eregion.fr) |  | 
+| [La Transfo site final](https://transfocodesource.la27eregion.fr/index.html) | https://27eregion-transfocodesource.netlify.app | 
+| [Lieux Communs](https://lieuxcommuns.la27eregion.fr) | https://27eregion-lieuxcommuns.netlify.app | 
+| [Nouveaux accords](https://nouveauxaccords.la27eregion.fr) | https://27eregion-nouveauxaccords.netlify.app | 
+| [Repenser l’accueil en mairie](https://mairie19.la27eregion.fr) | https://27eregion-mairie19.netlify.app | 
+| [Territoire en résidences](https://territoiresenresidences.wordpress.com) |  | 
 
 ### Capacités publiques
 
