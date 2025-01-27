@@ -20,15 +20,15 @@ wget \
 
 ## Archivés
 
-| Nom | URL | Relecture | Code |
-|-|-|-|-|
-| Capacités publiques |  https://capacitespubliques.la27eregion.fr | https://27eregion-capacitespubliques.netlify.app | `wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains capacitespubliques.la27eregion.fr --no-parent capacitespubliques.la27eregion.fr` |
+| Nom | URL | Relecture |
+|-|-|-|
+| Capacités publiques |  https://capacitespubliques.la27eregion.fr | https://27eregion-capacitespubliques.netlify.app | 
 
 ### Capacités publiques
 https://capacitespubliques.la27eregion.fr
 
 ```bash
-`wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains capacitespubliques.la27eregion.fr --no-parent capacitespubliques.la27eregion.fr`
+wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains capacitespubliques.la27eregion.fr --no-parent capacitespubliques.la27eregion.fr
 ```
 
 https://27eregion-capacitespubliques.netlify.app
