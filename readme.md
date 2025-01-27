@@ -20,8 +20,8 @@ wget \
 
 ## Archivés
 
-| Nom | URL | Relecture |
-|-|-|-|
+| Nom | URL |
+|-|-|
 | [Capacités publiques](https://capacitespubliques.la27eregion.fr) | https://27eregion-capacitespubliques.netlify.app | 
 
 ### Capacités publiques
