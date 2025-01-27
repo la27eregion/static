@@ -24,7 +24,7 @@ Pour bénéficier des scripts de nettoyage de Netlify, il faut envoyer les fichi
 
 | Nom | URL | État |
 |-|-|-|
-| [Admeen](https://readymag.website/u26414578/1158603/) |  | ⚠️ |
+| [Admeen](https://readymag.website/u26414578/1158603/) |  | ⚠️  l'import ne fonctionne pas |
 | [Aménagement participatif](https://amenagementparticipatif.fr) | https://27eregion-amenagementparticipatif.netlify.app | 
 | [Blog Labonautes](https://leslabonautes.la27eregion.fr) | https://27eregion-leslabonautes.netlify.app | 
 | [Blog résidence à Cluny](https://residence27sgmap.wordpress.com) | https://27eregion-residence27sgmap.netlify.app | 
