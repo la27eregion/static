@@ -34,7 +34,7 @@ Pour bénéficier des scripts de nettoyage de Netlify, il faut envoyer les fichi
 | [Gare de Montfort](https://garebzh.la27eregion.fr) | https://27eregion-garebzh.netlify.app | 
 | [Hopital](https://hopitalmetropole.la27eregion.fr) | https://27eregion-hopitalmetropole.netlify.app | 
 | [Labonautes](https://labonautes.fr) | https://27eregion-labonautes.netlify.app | ⚠️ |
-| [La Transfo](https://latransfo.la27eregion.fr) |  | 
+| [La Transfo](https://latransfo.la27eregion.fr) | https://latransfo.la27eregion.fr | 
 | [La Transfo site final](https://transfocodesource.la27eregion.fr/index.html) | https://27eregion-transfocodesource.netlify.app | 
 | [Lieux Communs](https://lieuxcommuns.la27eregion.fr) | https://27eregion-lieuxcommuns.netlify.app | 
 | [Nouveaux accords](https://nouveauxaccords.la27eregion.fr) | https://27eregion-nouveauxaccords.netlify.app | 
